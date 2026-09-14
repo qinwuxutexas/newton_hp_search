@@ -6,8 +6,8 @@ Please cite: Qinwu Xu et al., *Multi-Objective Hyperparameter Search via Damped 
 
 ```bibtex
 @article{xu2024newton,
-  title={A Multi-objective Newton Optimization Algorithm for Hyper-Parameter Search},
-  author={Xu, Qinwu},
+  title={Multi-Objective Hyperparameter Search via Damped Gauss-Newton Optimization},
+  author={Xu, Qinwu, Yifan Jiang},
   journal={arXiv preprint arXiv:2401.03580},
   year={2024}
 }
