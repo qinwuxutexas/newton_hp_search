@@ -1,10 +1,6 @@
 # Newton HPO
 
-Damped Gauss-Newton hyperparameter search for XGBoost, rebuilt from the Colab notebook `newton_hp_search.ipynb`.
-
-Original notebook: `notebooks/newton_hp_search.ipynb`
-
-The notebook still has datasets, the XGBoost objective, and grid / random / Optuna baselines. The solver cell for `run_newton_hpo` was missing; `src/newton_hpo/search/newton.py` reconstructs it from the saved history (`iter`, `alpha`, `residual_norm`) and the ablation kwargs (`damping_lambda`, `phi_ref`, `param_order`).
+Damped Gauss-Newton hyperparameter search for ML such as XGBoost and SVM.
 
 ## Method
 
