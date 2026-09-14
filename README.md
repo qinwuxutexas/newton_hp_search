@@ -1,8 +1,8 @@
 # Newton HPO
 
-Damped Gauss-Newton hyperparameter search for ML such as XGBoost and SVM.
+Damped Gauss-Newton hyperparameter search for ML such as XGBoost, SVM and CNN.
 
-Please cite: Qinwu Xu, *A Multi-objective Newton Optimization Algorithm for Hyper-Parameter Search*, arXiv:2401.03580, 2024. https://arxiv.org/abs/2401.03580
+Please cite: Qinwu Xu et al., *Multi-Objective Hyperparameter Search via Damped Gauss-Newton Optimization*, arXiv:2401.03580, 2024. https://arxiv.org/abs/2401.03580
 
 ```bibtex
 @article{xu2024newton,
