@@ -2,6 +2,17 @@
 
 Damped Gauss-Newton hyperparameter search for ML such as XGBoost and SVM.
 
+Please cite: Qinwu Xu, *A Multi-objective Newton Optimization Algorithm for Hyper-Parameter Search*, arXiv:2401.03580, 2024. https://arxiv.org/abs/2401.03580
+
+```bibtex
+@article{xu2024newton,
+  title={A Multi-objective Newton Optimization Algorithm for Hyper-Parameter Search},
+  author={Xu, Qinwu},
+  journal={arXiv preprint arXiv:2401.03580},
+  year={2024}
+}
+```
+
 ## Method
 
 Tune `learning_rate`, `subsample`, `colsample_bytree`, `reg_lambda` (optional extra keys) by Gauss-Newton on
